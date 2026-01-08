@@ -2,7 +2,8 @@
 
 # ==============================================================================
 # SCRIPT DE LIMPEZA SEGURA DE SERVIDOR LINUX
-# Autor: Lu Faria
+# Autor: Lu Faria (https://github.com/lcnjrj)
+# License: MIT 
 # Descrição: Limpa caches apt, logs journald, kernels antigos e caches de usuário.
 # ==============================================================================
 
